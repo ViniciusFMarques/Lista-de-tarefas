@@ -5,10 +5,6 @@ function excluirElemento(e){
     pai.remove();
 }
 
-function breakLine(){
-
-}
-
 function adicionarElemento(){   
     let text = document.querySelector("#newTask").value;
 
