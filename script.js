@@ -29,9 +29,6 @@ function adicionarElemento(){
         div.appendChild(p);
         div.appendChild(img);
         p.appendChild(task);
-        console.log(div_lista);
-        console.log(text);
-        console.log(p);
     }
     document.querySelector("#newTask").value = "";
 
